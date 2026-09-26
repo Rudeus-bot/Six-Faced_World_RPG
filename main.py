@@ -1,3 +1,4 @@
+print("Six-Faced World RPG")
 import random
 import json
 
